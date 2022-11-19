@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "name": "taco.order",
+      "type": "com.example.demo.springboot.User",
+      "sourceType": "com.example.demo.springboot.User"
+    }
+  ],
+  "properties": [
+    {
+      "name": "taco.order.userName",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.springboot.User",
+      "description": "Description for taco."
+    },
+    {
+      "name": "taco.order.note",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.springboot.User",
+      "description": "Description for taco."
+    },
+    {
+      "name": "taco.order.id",
+      "type": "java.lang.Long",
+      "sourceType": "com.example.demo.springboot.User",
+      "description": "Description for taco.order.id."
+    }
+  ] }
+
+
